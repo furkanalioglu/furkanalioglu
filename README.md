@@ -1,15 +1,9 @@
-![logo](https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif)
-<h1 align="center">Data Science With ⌗ Furkan!</h1>
-<h3 align="center">“Making the invisible visible”</h3>
-<img align ="right" alt="coding" width = "400" src=https://cdn.dribbble.com/users/668001/screenshots/3861883/data-graphic-animation.gif>
 
-- 🤔 I’m currently working on **Learning Data Science**
+
 
 - 📨 Contact me **furkanalioglu@gmail.com**
 
-- 📄 Know about my experiences [Python, Statistics]
 
-- ⚡ Also a **casual GYMRAT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
