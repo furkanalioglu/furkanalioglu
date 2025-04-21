@@ -15,7 +15,7 @@
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" height="80"/>
 </p>
 
-## About Me 👨‍💻
+## About Me 
 
 I am a passionate iOS developer who loves to explore new technologies, build meaningful apps, and solve complex problems. I believe in writing clean, efficient, and scalable code. My goal is to create apps that deliver a great user experience while maintaining optimal performance.
 
