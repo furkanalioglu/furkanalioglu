@@ -7,12 +7,12 @@
 
 <p align="center">
   <img alt="Xcode" src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" height="80"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" height="80"/>
+  <img alt="Metal" src="https://img.shields.io/badge/Metal-8E8E8E?style=for-the-badge&logo=apple&logoColor=white" height="80"/>
 </p>
 
 <p align="center">
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="80"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="80"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" height="80"/>
 </p>
 
 ## About Me 👨‍💻
